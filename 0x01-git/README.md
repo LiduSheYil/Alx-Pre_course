@@ -1,8 +1,9 @@
-# Repo-Session 0x01-git
+# Alx-Pre_course Repo (EDITED)
 
-This is my second README file
+This is my first README  file
 
-It was created in the **0x01-git** directory
+I can  **now** access and control __git__ projects easily
 
+## Second heading
 
-This is getting easier as I finish a project
+I'm able to create a second heading with the instructions
