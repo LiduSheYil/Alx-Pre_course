@@ -7,3 +7,5 @@ I can  **now** access and control __git__ projects easily
 ## Second heading
 
 I'm able to create a second heading with the instructions
+
+The pull is not currently working for me, but i will retry it.
